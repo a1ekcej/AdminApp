@@ -1,0 +1,11 @@
+D:\KODinG\AllMyProjects\09_VS_2022\C#\ASP\SchoolHRAministration\HRAdministrationAPI\bin\Debug\net6.0\HRAdministrationAPI.deps.json
+D:\KODinG\AllMyProjects\09_VS_2022\C#\ASP\SchoolHRAministration\HRAdministrationAPI\bin\Debug\net6.0\HRAdministrationAPI.dll
+D:\KODinG\AllMyProjects\09_VS_2022\C#\ASP\SchoolHRAministration\HRAdministrationAPI\bin\Debug\net6.0\HRAdministrationAPI.pdb
+D:\KODinG\AllMyProjects\09_VS_2022\C#\ASP\SchoolHRAministration\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\KODinG\AllMyProjects\09_VS_2022\C#\ASP\SchoolHRAministration\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.AssemblyInfoInputs.cache
+D:\KODinG\AllMyProjects\09_VS_2022\C#\ASP\SchoolHRAministration\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.AssemblyInfo.cs
+D:\KODinG\AllMyProjects\09_VS_2022\C#\ASP\SchoolHRAministration\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.csproj.CoreCompileInputs.cache
+D:\KODinG\AllMyProjects\09_VS_2022\C#\ASP\SchoolHRAministration\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.dll
+D:\KODinG\AllMyProjects\09_VS_2022\C#\ASP\SchoolHRAministration\HRAdministrationAPI\obj\Debug\net6.0\refint\HRAdministrationAPI.dll
+D:\KODinG\AllMyProjects\09_VS_2022\C#\ASP\SchoolHRAministration\HRAdministrationAPI\obj\Debug\net6.0\HRAdministrationAPI.pdb
+D:\KODinG\AllMyProjects\09_VS_2022\C#\ASP\SchoolHRAministration\HRAdministrationAPI\obj\Debug\net6.0\ref\HRAdministrationAPI.dll
